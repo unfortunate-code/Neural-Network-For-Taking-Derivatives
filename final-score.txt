@@ -1,0 +1,5 @@
+Accuracy on Test set: 0.92756
+Accuracy on Validation set: 0.92974
+Accuracy on Training Set: 0.9609011111111111
+
+Splits: Training: 90%, Validation: 5%, Test: 5%
